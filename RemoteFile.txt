@@ -2,3 +2,4 @@ This is a remoteFile added to the remote directory.
 new changes maded
 change 2
 change 3 in RemoteFile
+change 4 in RemoteFile
